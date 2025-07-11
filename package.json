@@ -1,0 +1,15 @@
+{
+  "name": "smart-websocket-server",
+  "version": "1.0.0",
+  "description": "Smart WebSocket server with auto-assigned usernames",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.14.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
